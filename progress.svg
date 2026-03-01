@@ -37,7 +37,7 @@
         <clipPath
    id="progBarCutoff">
           <rect
-   width="116.90018139087468"
+   width="116.8961867651448"
    height="8.6508904"
    x="21.118132"
    y="134.05507"
@@ -112,7 +112,7 @@
          id="tspan1258"
          style="font-size:4.23333px;stroke-width:0.83441208;stroke:#000000;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:miter;stroke-linecap:butt;paint-order:stroke fill markers"
          x="46.947659"
-         y="129.67447">Implemented: 100.00% (2379/2379)</tspan><tspan
+         y="129.67447">Implemented: 100.00% (2380/2380)</tspan><tspan
          style="font-size:4.23333px;stroke-width:0.83441208;stroke:#000000;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:miter;stroke-linecap:butt;paint-order:stroke fill markers"
          x="46.947659"
          y="134.96613"
